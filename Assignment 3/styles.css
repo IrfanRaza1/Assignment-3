@@ -194,9 +194,7 @@ scale: 120%;
 .locate-button:hover{
     background-color: #FF2B85;
     color:white ;
-    border:px solid #FF2B85;
-    border: none;
-
+    border:1px solid #FF2B85;
 }
 
 .find-food-button {
