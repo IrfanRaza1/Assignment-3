@@ -165,16 +165,18 @@ scale: 120%;
 }
 
 .search-bar input {
-    flex: content;
+    width:470px;
     padding: 17px;
     border: 1px solid;
+    outline: none;
     border-color: #ccc #cccccc00 #ccc #ccc;
     border-radius: 10px 0 0 10px;
     transition: all 0.3s
+    
 
 }
 
-.search-bar input:hover{
+.search-bar input:focus{
     border: 1px solid;
     border-color:  #FF2B85 #ff2b8300 #FF2B85 #FF2B85;
 
