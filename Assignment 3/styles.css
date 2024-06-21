@@ -14,7 +14,7 @@ header {
     padding: 7px;
     background-color: white;
     box-shadow: 0 2px 25px rgba(0, 0, 0, 0.1);
-    position:sticky;
+    position: sticky;
     top: 0px;
     z-index: 1;
 }
@@ -102,7 +102,6 @@ nav {
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     
-    
 }
 .cart{
     background-color: none;
@@ -113,8 +112,6 @@ nav {
 .cart:hover{
 scale: 120%;
 }
-
-
 
 .signup {
     background-color: #FF2B85;
@@ -172,8 +169,6 @@ scale: 120%;
     border-color: #ccc #cccccc00 #ccc #ccc;
     border-radius: 10px 0 0 10px;
     transition: all 0.3s
-    
-
 }
 
 .search-bar input:focus{
@@ -582,6 +577,7 @@ h4{
     color: #333;
 }
 
+
 footer {
     
     padding: 20px 0;
@@ -671,7 +667,7 @@ font-weight: bolder;
     margin-left: -1px;
     margin-top: 5px;
     border: none;
-    background-color: #f3f3f3;
+    background-color: #f3f3f300;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
 }
@@ -685,7 +681,3 @@ scale: 120%;
     height: 35px;
     
 }
-
-
-
-
