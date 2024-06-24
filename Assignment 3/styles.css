@@ -384,7 +384,7 @@ transition: all 0.2s ease-in-out;
     display: flex;
     align-items: center;
     border: 1px solid;
-    margin: 10px;
+    margin: 37px 10px 0px 0px; 
     justify-content: center;
     background-color: black;
     color: white;
@@ -545,17 +545,15 @@ margin-left: 140px;
     background: url('Data/17.png') no-repeat left center;
     background-size: 20px;
     padding-left: 30px;
-    margin: 10px 0;
-    font-size: 1.1em;
+    margin: 5px 0px;
+    font-size: 17px;
     color: #555;
     display: table;
-    transition: all 0.3s;
+    transition: all 0.3s ease;
 }
 
 .whats-new li:hover{
 background-size: 30px;
-
-
 }
 
 .faq {
@@ -607,12 +605,18 @@ footer {
     color: #919191;
     text-decoration: none;
     margin: 0 5px;
-    transition: all 0.2s;
+    display: inline;
+    transition: all 0.3s; 
 }
 
 .countries a:hover{
-    color: #575757;
+    color: #FF2B85;
+}
 
+.line{
+ font-size: 20px;
+ color: #919191;
+ 
 }
 
 .footer-middle {
