@@ -557,8 +557,7 @@ background-size: 30px;
 }
 
 .faq {
-    margin-top: 20px;
-    margin-top: -110px;
+    margin: 20px 0px 110px 0px;
 }
 
 .faq h3 {
